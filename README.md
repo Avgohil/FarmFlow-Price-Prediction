@@ -25,14 +25,14 @@ Ensure you have the following installed:
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/farmflow-price-prediction.git
+   git clone https://github.com/Avgohil/farmflow-price-prediction.git
    cd farmflow-price-prediction
    ```
 
 2. Create a virtual environment:
    ```sh
    python -m venv venv
-   source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+   Windows use `venv\Scripts\activate`
    ```
 
 3. Install dependencies:
