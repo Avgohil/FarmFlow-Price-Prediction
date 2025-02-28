@@ -65,11 +65,16 @@ The model is trained using a dataset that includes:
 
 ## AI Model
 - Utilizes **Linear Regression** and **Random Forest** for price prediction.
+- In this Model i Use Random Forest to reduce overfitting
 - Feature engineering to improve prediction accuracy.
 - Hyperparameter tuning for better results.
 
 
-## Project Team
+## Project Team [FarmFlow]
 - **AI & Machine Learning Implementation**: Handled by [Ankita gohil(Me)]
 
+##ScreenShots of FastAPI Response :
+![Screenshot 2025-02-22 122344](https://github.com/user-attachments/assets/63db7d96-16f6-40c2-9126-cf154160b840)
+
+![Screenshot 2025-02-22 122411](https://github.com/user-attachments/assets/b57b436f-b4b7-4eea-9525-633555501610)
 
