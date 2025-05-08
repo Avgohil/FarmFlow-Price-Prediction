@@ -69,6 +69,20 @@ The model is trained using a dataset that includes:
 - Feature engineering to improve prediction accuracy.
 - Hyperparameter tuning for better results.
 
+##Model Evaluation
+The Random Forest model has been evaluated using multiple metrics, and here are the results:
+
+Evaluation Metrics
+Mean Absolute Error (MAE): 173.07
+
+Mean Squared Error (MSE): 71239.20
+
+Root Mean Squared Error (RMSE): 266.91
+
+R² Score: 0.85 (indicating that the model explains 85% of the variance in the data)
+
+check out the full implementation and experiment results in the Colab notebook:(https://colab.research.google.com/drive/1O6nRAfHLTLek5p8be4snQxofkJs33mDJ?usp=sharing).
+
 
 ## Project Team [FarmFlow]
 - **AI & Machine Learning Implementation**: Handled by [Ankita gohil(Me)]
